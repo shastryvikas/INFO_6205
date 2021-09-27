@@ -1,0 +1,920 @@
+2021-09-26 18:17:23 DEBUG Config - Config.get(helper, instrument) = true
+2021-09-26 18:17:23 DEBUG Config - Config.get(helper, seed) = 0
+2021-09-26 18:17:23 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-09-26 18:17:23 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-09-26 18:17:23 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-09-26 18:17:23 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-09-26 18:17:23 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-09-26 18:17:23 DEBUG Config - Config.get(instrumenting, hits) = true
+2021-09-26 18:17:23 DEBUG Config - Config.get(helper, cutoff) = 
+2021-09-26 18:18:40 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-09-26 18:20:18 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-09-26 18:20:28 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-09-26 18:47:04 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-09-26 18:58:40 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-09-26 18:59:00 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 1 runs
+2021-09-26 18:59:00 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 2 runs
+2021-09-26 18:59:00 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 4 runs
+2021-09-26 18:59:00 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 8 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 16 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 1 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 2 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 4 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 8 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 16 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 1 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 2 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 4 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 8 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 16 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 1 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 2 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 4 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 8 runs
+2021-09-26 18:59:01 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 16 runs
+2021-09-26 19:07:22 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 10 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 20 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 40 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 80 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 160 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 10 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 20 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 40 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 80 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 160 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 10 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 20 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 40 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 80 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 160 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 10 runs
+2021-09-26 19:07:23 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 20 runs
+2021-09-26 19:07:24 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 40 runs
+2021-09-26 19:07:24 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 80 runs
+2021-09-26 19:07:24 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 160 runs
+2021-09-26 19:10:51 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 10 runs
+2021-09-26 19:10:51 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 20 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 40 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 80 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 160 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 10 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 20 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 40 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 80 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 160 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 10 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 20 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 40 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 80 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 160 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 10 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 20 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 40 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 80 runs
+2021-09-26 19:10:52 INFO  Benchmark_Timer - Begin run: testInsertionSortTimer with 160 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 5 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 25 runs
+2021-09-26 20:08:26 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 25 runs
+2021-09-26 20:08:27 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 25 runs
+2021-09-26 20:08:27 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 25 runs
+2021-09-26 20:08:27 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 25 runs
+2021-09-26 20:08:28 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 25 runs
+2021-09-26 20:08:31 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 25 runs
+2021-09-26 20:08:31 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 25 runs
+2021-09-26 20:08:31 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 25 runs
+2021-09-26 20:08:34 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 50 runs
+2021-09-26 20:08:47 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 50 runs
+2021-09-26 20:08:47 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 50 runs
+2021-09-26 20:08:49 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 50 runs
+2021-09-26 20:09:01 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 50 runs
+2021-09-26 20:10:09 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 50 runs
+2021-09-26 20:10:09 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 50 runs
+2021-09-26 20:10:17 INFO  Benchmark_Timer - Begin run: Testing insertion sort with random array: with 50 runs
+2021-09-26 20:10:51 INFO  Benchmark_Timer - Begin run: Testing insertion sort with reversed array: with 50 runs
+2021-09-26 20:16:06 INFO  Benchmark_Timer - Begin run: Testing insertion sort with ordered array: with 50 runs
+2021-09-26 20:16:06 INFO  Benchmark_Timer - Begin run: Testing insertion sort with partially array: with 50 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:16:30 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:16:31 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:16:31 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:16:31 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:16:31 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:16:35 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:16:35 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:16:35 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:16:38 INFO  Benchmark_Timer - Begin run: Reversed array: with 50 runs
+2021-09-26 20:16:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 50 runs
+2021-09-26 20:16:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 50 runs
+2021-09-26 20:16:53 INFO  Benchmark_Timer - Begin run: Random array: with 50 runs
+2021-09-26 20:17:04 INFO  Benchmark_Timer - Begin run: Reversed array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 5 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 25 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 50 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 75 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Reversed array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Partially ordered array: with 100 runs
+2021-09-26 20:18:51 INFO  Benchmark_Timer - Begin run: Random array: with 100 runs
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 5
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 25
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 50
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 75
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:20 INFO  Benchmark_Timer - 100
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:20:44 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:10 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:11 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:12 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:13 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:26:14 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:26:15 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:26:15 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:33:32 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:20 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:52 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:52 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:52 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:52 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:52 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:35:53 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:53 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:53 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:53 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:35:53 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:37:02 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:37:02 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:37:02 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:37:02 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:37:02 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:37:28 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:37:28 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:37:28 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:37:28 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:37:28 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:40:59 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:40:59 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:40:59 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:40:59 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:41:00 INFO  Benchmark_Timer - Reversed array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Ordered array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:41:26 INFO  Benchmark_Timer - Partially ordered array:
+2021-09-26 20:41:29 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:41:29 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:41:29 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:41:29 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:41:30 INFO  Benchmark_Timer - Random array:
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:35 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:37 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:37 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:37 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:37 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:37 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:37 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:37 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:37 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 20:59:37 INFO  Benchmark_Timer - Benchmark test for InsertionSort 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:49 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:50 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:51 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:51 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:51 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:51 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:51 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:51 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:51 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:51 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:09:51 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:29 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:31 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:31 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:31 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:31 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:31 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:31 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:31 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:31 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:11:31 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:14:37 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:16:02 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:20 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:17:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:00 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:01 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:01 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:01 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:01 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:01 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:01 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:01 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:01 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:01 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:02 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:02 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:02 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:02 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:02 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:02 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:02 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:02 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:18:03 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 21:43:25 DEBUG Config - Config.get(helper, instrument) = true
+2021-09-26 21:43:25 DEBUG Config - Config.get(helper, seed) = 0
+2021-09-26 21:43:25 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-09-26 21:43:25 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-09-26 21:43:25 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-09-26 21:43:25 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-09-26 21:43:25 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-09-26 21:43:25 DEBUG Config - Config.get(instrumenting, hits) = true
+2021-09-26 21:43:25 DEBUG Config - Config.get(helper, cutoff) = 
+2021-09-26 21:44:02 INFO  Benchmark_Timer - testWaitPeriods
+2021-09-26 21:44:30 INFO  Benchmark_Timer - testWaitPeriods
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:39:32 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:27 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:27 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:27 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:27 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:27 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:27 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:27 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:27 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:27 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:41:28 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:24 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:25 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:25 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:25 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:25 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:25 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:25 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:25 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:25 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:25 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:26 INFO  Benchmark_Timer - InsertionSort: 
+2021-09-26 23:42:27 INFO  Benchmark_Timer - InsertionSort: 
